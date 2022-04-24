@@ -1,0 +1,20 @@
+{
+    "name": "Only dead pokemons",
+    "pokemons": [
+        {
+            "name": "Dead Pokemon 1",
+            "health": 0,
+            "type": "electric"
+        },
+        {
+            "name": "Dead Pokemon 2",
+            "health": 0,
+            "type": "fire"
+        },
+        {
+            "name": "Dead Pokemon 3",
+            "health": 0,
+            "type": "flying"
+        }
+    ]
+}

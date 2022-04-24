@@ -1,0 +1,30 @@
+{
+    "name": "Tim's Pokemon collection",
+    "pokemons": [
+        {
+            "name": "Pikachu",
+            "health": 100,
+            "type": "electric"
+        },
+        {
+            "name": "Charmander",
+            "health": 0,
+            "type": "fire"
+        },
+        {
+            "name": "Beartic",
+            "health": 50,
+            "type": "ice"
+        },
+        {
+            "name": "Charizard",
+            "health": 0,
+            "type": "flying"
+        },
+        {
+            "name": "Pidgey",
+            "health": 90,
+            "type": "flying"
+        }
+    ]
+}

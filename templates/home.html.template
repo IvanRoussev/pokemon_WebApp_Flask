@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Final exam 2515
+        </title>
+    </head>
+    <body>
+        <h1>Available player collections</h1>
+        <ul>
+            <li><a href="/tim">tim</a></li>
+            <li><a href="/empty">empty</a></li>
+            <li><a href="/dead">dead</a></li>
+        </ul>
+    </body>
+</html>
